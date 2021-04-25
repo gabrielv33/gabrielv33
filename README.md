@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/gabrielv33/gabrielv33/header.png "Header")](https://twitter.com/GabrielVanca)
+[![Header](https://raw.githubusercontent.com/gabrielv33/gabrielv33/header.jpg "Header")](https://twitter.com/GabrielVanca)
 
 
 <!-- ### Hi there 👋 -->

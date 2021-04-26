@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <!-- Project: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<!-- <a href="https://github.com/gabrielv33">
+<a href="https://github.com/gabrielv33">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&hide=makefile,CMake,HTML,CSS&langs_count=10" />
 </a>
 
-</tr> -->
+</tr>
 
 <a href="https://github.com/gabrielv33">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark" />

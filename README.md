@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=40%;">
-        <img align="center" style="padding=0;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact"/>
-  </td>
-    <td align="center" style="padding=0;width=60%;">
+    <td align="center">
       <img align="center" style="padding=0;"
       src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark" />
+    </td>
+    <td align="center">
+        <img align="center" style="padding=0;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark"/>
     </td>
   </tr>
 </table>

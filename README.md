@@ -27,14 +27,18 @@ Here are some ideas to get you started:
 
 <!-- Format ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
+<!-- Icons: https://simpleicons.org/ -->
+<!-- Badges: https://shields.io/category/other -->
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hypervisor-VMware_ESXi-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Text-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=2bbc8a)

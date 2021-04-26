@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&langs_count=8)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&langs_count=8)
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark)

@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <!-- Format ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Icons (new): https://simple-icons.github.io/simple-icons-website/?q=c%20sh -->
+<!-- Logos: Simple-icons are referenced using names as they appear on the simple-icons site. If the name includes spaces, replace them with dashes (e.g: ?logo=visual-studio-code) -->
+<!-- Custom Logos are possible. -->
 <!-- Badges: https://shields.io/category/other -->
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)

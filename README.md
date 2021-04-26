@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td align="center">
-            <img align="center" style="padding=0;"
+            <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact" />
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img align="center" style="padding=0;"
+            <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark"/>
         </td>
   </tr>

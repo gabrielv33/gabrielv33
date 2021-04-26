@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CDN-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C_Sharp_-informational?style=flat&logo=c_sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C_Sharp_-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Text-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a) 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Windows_Terminal-informational?style=flat&logo=windowsterminal&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Content_Creation-Adobe_CC-informational?style=flat&logo=adobe_creative_cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Content_Creation-Adobe_CC-informational?style=flat&logo=adobe-creative-cloud&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)-->
 <!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->

@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
+<!-- Project: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 <!-- <a href="https://github.com/gabrielv33">

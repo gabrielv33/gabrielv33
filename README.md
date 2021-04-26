@@ -29,15 +29,17 @@ Here are some ideas to get you started:
 
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<!-- <table>
-  <tr>
-    <td align="center"> -->
-      <img align="center" style="padding=0;"
-      src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact" />
-    <!-- </td>
-    <td align="center"> -->
-        <img align="center" style="padding=0;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark"/>
-    <!-- </td>
+<table>
+    <tr>
+        <td align="center">
+            <img align="center" style="padding=0;"
+            src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img align="center" style="padding=0;"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark"/>
+        </td>
   </tr>
-</table> -->
+</table>

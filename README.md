@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 
 </tr> -->
 
-<a href="https://github.com/gabrielv33">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark" />
+<a href="https://github.com/gabrielv33" align="center">
+    <img align="center" class="center" src="https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark" />
 </a>

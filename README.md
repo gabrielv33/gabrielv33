@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/gabrielv33">
     <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&langs_count=8&hide=makefile" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&langs_count=6&hide=makefile,HTML,CSS" />
 </a>
 
 <a href="https://github.com/gabrielv33">

@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 <!-- Project: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&hide=makefile,CMake,HTML,CSS&langs_count=10)
+![Gabriel's GitHub Stats](https://github-profile-readme-stats.vanca.co.uk
+/api/top-langs/?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&layout=compact&hide=makefile,CMake,HTML,CSS&langs_count=10)
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark)
+![Gabriel's GitHub Stats](https://github-profile-readme-stats.vanca.co.uk
+/api?username=gabrielv33&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
